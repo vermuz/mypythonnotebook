@@ -1,3 +1,4 @@
-# TODO
-#
-# run ipython nbconvert <filename> on each file
+# Spinup notebook
+up:
+	ipython notebook
+
